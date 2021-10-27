@@ -1,0 +1,39 @@
+
+/*common start*/
+body{
+	margin: 0;
+	padding: 0;
+	font-family: 'Playfair Display', serif;
+   font-size: 16px;
+   font-width: 400;
+  color: #626262 ;
+}
+/*common end*/
+/*header start*/
+ .wrapper{
+ 	overflow: hidden;
+ 	margin: 0 auto;
+ 	padding: 0;
+ 	width: 90%;
+ 	border: 1px solid black;
+
+ }
+ .logo{
+ 	width: 10%;
+ 	border: 1px solid red;
+ 	float: left;
+ }
+ .logo a{}
+ .logo a img{}
+ .menu{
+ 	width: 70%;
+ 	border: 1px solid red;
+ 	float: right;
+ }
+ .menu ul{}
+ .menu ul li{}
+ .menu ul li:last-child a{}
+ .menu ul li a: hover{}
+
+
+/*header end*/
